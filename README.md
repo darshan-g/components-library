@@ -1,5 +1,8 @@
 # Demo component library
 
+## View the original artcal here:
+https://www.devbridge.com/articles/a-step-by-step-build-to-build-a-sharable-components-library/
+
 ## First time setup
 1. Use only `npm` for running scripts, in order to avoid some unexpected conflicts with different `.lock` files;
 2. Run `npm i` command to install project dependencies;
