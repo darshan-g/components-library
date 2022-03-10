@@ -1,5 +1,5 @@
 {
-    "name": "@audnavlib/button",
+    "name": "@audnavlibdarshan/button",
     "description": "Button component",
     "version": "1.0.2",
     "license": "MIT",
@@ -16,5 +16,6 @@
     "peerDependencies": {
         "react": "^16.12.0",
         "react-dom": "^16.12.0"
-    }
+    },
+    "gitHead": "4096556b98a6f1dbfd0d7d32710dfc539dfd78e2"
 }

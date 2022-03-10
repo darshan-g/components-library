@@ -1,5 +1,5 @@
 {
-    "name": "@audnavlib/button-group",
+    "name": "@audnavlibdarshan/button-group",
     "description": "Button Group component",
     "version": "1.0.2",
     "license": "MIT",
@@ -14,10 +14,11 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "dependencies": {
-        "@audnavlib/button": "^1.0.2"
+        "@audnavlibdarshan/button": "^1.0.2"
     },
     "peerDependencies": {
         "react": "^16.12.0",
         "react-dom": "^16.12.0"
-    }
+    },
+    "gitHead": "4096556b98a6f1dbfd0d7d32710dfc539dfd78e2"
 }

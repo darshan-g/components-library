@@ -1,6 +1,6 @@
 import React from 'react';
 import './buttongroup.scss';
-import Button from '@audnavlib/button';
+import Button from '@audnavlibdarshan/button';
 
 const ButtonGroup = (props) => (
     <div className="button-group">
