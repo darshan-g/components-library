@@ -1,5 +1,5 @@
 {
-    "name": "button-group",
+    "name": "@darshuslib/button-group",
     "description": "Button Group component",
     "version": "1.0.7",
     "license": "MIT",
@@ -20,5 +20,5 @@
         "react": "^16.12.0",
         "react-dom": "^16.12.0"
     },
-    "gitHead": "b097e166df6d5292a0c20a61b0f146c3549720a5"
+    "gitHead": "b606a692c1d67b37da8f79c1c33a4ee0ec7908f1"
 }
