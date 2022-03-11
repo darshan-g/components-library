@@ -1,7 +1,7 @@
 {
     "name": "@darshuslib/button",
     "description": "Button component",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "license": "MIT",
     "author": "Audrius Navickas",
     "main": "dist/index.js",
