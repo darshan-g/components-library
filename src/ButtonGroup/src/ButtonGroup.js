@@ -1,6 +1,6 @@
 import React from 'react';
 import './buttongroup.scss';
-import Button from '@darshuslib/button';
+import Button from 'button';
 
 const ButtonGroup = (props) => (
     <div className="button-group">
