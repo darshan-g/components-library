@@ -1,7 +1,7 @@
 import React from "react";
 import { storiesOf } from "@storybook/react";
-import Button from '@darshsk/button';
+import Button from '@darshuslib/button';
 
 storiesOf("Button", module).add("Default", () => (
-    <Button onClick={() => { alert('You are my best friend buddy! =)')}}>Click me</Button>
+    <Button onClick={() => { alert('You are the best buddy sir! =)')}}>Click me</Button>
 ));

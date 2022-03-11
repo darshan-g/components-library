@@ -1,5 +1,5 @@
 {
-    "name": "components-library",
+    "name": "@fe/darshuslib",
     "version": "1.0.0",
     "description": "A components library",
     "main": "index.js",

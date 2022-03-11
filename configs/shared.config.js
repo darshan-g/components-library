@@ -39,8 +39,8 @@ const rules = [
 // __dirname gives exact path where the file is, in this case: PROJECT/configs. It is needed to add ../ at the beginning of the aliases to solve correct path.
 
 const aliases = {
-    "@darshsk/button": path.resolve(__dirname, "../src/Button/src/index"),
-    "@darshsk/button-group": path.resolve(__dirname, "../src/ButtonGroup/src/index")
+    "button": path.resolve(__dirname, "../src/Button/src/index"),
+    "button-group": path.resolve(__dirname, "../src/ButtonGroup/src/index")
 };
 
 module.exports = {rules, aliases};

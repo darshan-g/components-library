@@ -1,5 +1,5 @@
 {
-    "name": "@darshsk/button-group",
+    "name": "button-group",
     "description": "Button Group component",
     "version": "1.0.6",
     "license": "MIT",
@@ -14,7 +14,7 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "dependencies": {
-        "@darshsk/button": "^1.0.6"
+        "button": "^1.0.0"
     },
     "peerDependencies": {
         "react": "^16.12.0",

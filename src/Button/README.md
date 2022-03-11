@@ -1,4 +1,4 @@
 # Button component
 
 ## Usage
-Import component with: `import Button from '@darshsk/button';`
+Import component with: `import Button from '@darshuslib/button';`

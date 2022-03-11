@@ -1,6 +1,6 @@
 import React from "react";
 import { storiesOf } from "@storybook/react";
-import ButtonGroup from '@darshsk/button-group';
+import ButtonGroup from '@darshuslib/button-group';
 
 const items = [
     {id: 1, name: 'I am awesome', onClick: () => { alert('I am really really awesome!') }},
